@@ -37,6 +37,9 @@ This project demonstrates practical API integration, JSON data handling, error h
 ✅ GitHub & Deployment Ready
 
 ---
+### LIVE DEMO
+https://currencyconverter-ogbsjlatjt6pzjh7xq5hsd.streamlit.app/
+---
 
 ## 🛠️ Technologies Used
 
